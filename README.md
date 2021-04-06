@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/sec_spooky" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="sec_spooky" height="30" width="40" /></a>
 <a href="https://instagram.com/spooky_sec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="spooky_sec" height="30" width="40" /></a>
-<a href="https://discord.gg/SpookySec#6710" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="SpookySec#6710" height="30" width="40" /></a>
+<a href="https://discord.gg/gCPQrGp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="SpookySec#6710" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
