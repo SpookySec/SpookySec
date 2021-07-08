@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spookysec" alt="spookysec" /></a> </p>
 
-- 🔭 I’m currently working on [PET (PE Toolkit)](github.com/SpookySec/PEToolkit)
+- 🔭 I’m currently working on [GHRL](github.com/SpookySec/GHRL)
 
 - 🌱 I’m currently diving deeper into **Reverse engineering, Binary exploitation**
 
